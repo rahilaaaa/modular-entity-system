@@ -28,10 +28,12 @@ pip install -r requirements.txt
 ## Installed Apps
 
 ### Master Apps
+- common
 - vendor
 - product
 - course
 - certification
+
 
 ### Mapping Apps
 - vendor_product_mapping
